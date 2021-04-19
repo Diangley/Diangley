@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Diangley
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Diangl        ey
+- 👀 I’m interested in  aprender novas competências
+- 🌱 I’m currently learning  as linguagem  java, python e kotlin
+- 💞️ I’m looking to collaborate com pouco conhecimento que ainda possuo 
+- 📫 How to reach me diangley.silva@gmail.com
 
 <!---
 Diangley/Diangley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
