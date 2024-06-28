@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diangl        ey
+- 👋 Hi, I’m @Diangley
 - 👀 I’m interested in  aprender novas competências
 - 🌱 I’m currently learning  as linguagem  java, python e kotlin
 - 💞️ I’m looking to collaborate com pouco conhecimento que ainda possuo 
